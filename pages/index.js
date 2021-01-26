@@ -8,7 +8,7 @@ const Index = (props) => {
   return (
     <Container>
       <Head>
-      <title>Pagina principal Index</title>
+      <title>Pagina principal project Next SSR Usuarios</title>
       </Head>
       <Users users={props.users} />
     </Container>

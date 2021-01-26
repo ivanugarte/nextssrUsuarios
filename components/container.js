@@ -4,7 +4,7 @@ import Head from 'next/head'
 const Container = (props) => (
   <div>
     <Head>
-      <title>Fazt project Next nuevo</title>
+      <title>project Next SSS Usuarios</title>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/flatly/bootstrap.min.css" />
     </Head>
     <Navigation />
